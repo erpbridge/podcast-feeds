@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Marvel Comics History (Timeline Order)</title>
+    <link>https://erpbridge.github.io/podcast-feeds/marvel/</link>
+    <language>en-us</language>
+    <description>Personal audio overviews of Marvel Comics history, in publication timeline order.</description>
+    <itunes:author>Stephen</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>19391001 - Jim Hammond (Earth-616)</title>
+      <description>The Human Torch Joins the NYPD</description>
+      <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">marvel-001-1UiUXU5eXfkyI3k103_uCLNOUzP6fLmEr</guid>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1UiUXU5eXfkyI3k103_uCLNOUzP6fLmEr&amp;export=download" length="64687112" type="audio/mp4"/>
+    </item>
+  </channel>
+</rss>
