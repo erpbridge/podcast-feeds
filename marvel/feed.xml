@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marvel Comics History (Timeline Order)</title>
     <link>https://erpbridge.github.io/podcast-feeds/marvel/</link>
+    <atom:link href="https://erpbridge.github.io/podcast-feeds/marvel/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <description>Personal audio overviews of Marvel Comics history, in publication timeline order.</description>
     <itunes:author>Stephen</itunes:author>
