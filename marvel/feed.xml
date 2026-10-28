@@ -7,6 +7,12 @@
     <language>en-us</language>
     <description>Personal audio overviews of Marvel Comics history, in publication timeline order.</description>
     <itunes:author>Stephen</itunes:author>
+    <itunes:image href="https://erpbridge.github.io/podcast-feeds/marvel/artwork.jpg"/>
+    <image>
+      <url>https://erpbridge.github.io/podcast-feeds/marvel/artwork.jpg</url>
+      <title>Marvel Comics History (Timeline Order)</title>
+      <link>https://erpbridge.github.io/podcast-feeds/marvel/</link>
+    </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
