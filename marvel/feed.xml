@@ -1,1 +1,28 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJzcyB2ZXJzaW9uPSIyLjAiIHhtbG5zOml0dW5lcz0iaHR0cDovL3d3dy5pdHVuZXMuY29tL2R0ZHMvcG9kY2FzdC0xLjAuZHRkIj4KICA8Y2hhbm5lbD4KICAgIDx0aXRsZT5NYXJ2ZWwgQ29taWNzIEhpc3RvcnkgKFRpbWVsaW5lIE9yZGVyKTwvdGl0bGU+CiAgICA8bGluaz5odHRwczovL2VycGJyaWRnZS5naXRodWIuaW8vcG9kY2FzdC1mZWVkcy9tYXJ2ZWwvPC9saW5rPgogICAgPGxhbmd1YWdlPmVuLXVzPC9sYW5ndWFnZT4KICAgIDxkZXNjcmlwdGlvbj5QZXJzb25hbCBhdWRpbyBvdmVydmlld3Mgb2YgTWFydmVsIENvbWljcyBoaXN0b3J5LCBpbiBwdWJsaWNhdGlvbiB0aW1lbGluZSBvcmRlci48L2Rlc2NyaXB0aW9uPgogICAgPGl0dW5lczphdXRob3I+U3RlcGhlbjwvaXR1bmVzOmF1dGhvcj4KICAgIDxpdHVuZXM6ZXhwbGljaXQ+ZmFsc2U8L2l0dW5lczpleHBsaWNpdD4KICAgIDxpdHVuZXM6dHlwZT5lcGlzb2RpYzwvaXR1bmVzOnR5cGU+CiAgICA8aXRlbT4KICAgICAgPHRpdGxlPjE5MzkxMDAxIC0gSmltIEhhbW1vbmQgKEVhcnRoLTYxNik8L3RpdGxlPgogICAgICA8ZGVzY3JpcHRpb24+VGhlIEh1bWFuIFRvcmNoIEpvaW5zIHRoZSBOWVBEPC9kZXNjcmlwdGlvbj4KICAgICAgPHB1YkRhdGU+V2VkLCAwMSBKYW4gMjAyMCAxMjowMDowMCArMDAwMDwvcHViRGF0ZT4KICAgICAgPGd1aWQgaXNQZXJtYUxpbms9ImZhbHNlIj5tYXJ2ZWwtMDAxLTFVaVVYVTVlWGZreUkzazEwM191Q0xOT1V6UDZmTG1FcjwvZ3VpZD4KICAgICAgPGl0dW5lczplcGlzb2RlPjE8L2l0dW5lczplcGlzb2RlPgogICAgICA8ZW5jbG9zdXJlIHVybD0iaHR0cHM6Ly9kcml2ZS51c2VyY29udGVudC5nb29nbGUuY29tL2Rvd25sb2FkP2lkPTFVaVVYVTVlWGZreUkzazEwM191Q0xOT1V6UDZmTG1FciZhbXA7ZXhwb3J0PWRvd25sb2FkIiBsZW5ndGg9IjY0Njg3MTEyIiB0eXBlPSJhdWRpby9tcDQiLz4KICAgIDwvaXRlbT4KICAgIDxpdGVtPgogICAgICA8dGl0bGU+MTkzOTEwMDEgLSBIYWxsb3dheSBvcmlnaW4gZGl2ZSBwYXJ0IDE8L3RpdGxlPgogICAgICA8ZGVzY3JpcHRpb24+SGFsbG93YXkgb3JpZ2luIGRpdmUgcGFydCAxPC9kZXNjcmlwdGlvbj4KICAgICAgPHB1YkRhdGU+U3VuLCAwMSBPY3QgMTkzOSAxMjowMDowMCArMDAwMDwvcHViRGF0ZT4KICAgICAgPGd1aWQgaXNQZXJtYUxpbms9ImZhbHNlIj5tYXJ2ZWwtMDAyLTFiN0Q4WHFkZU9GR09mblNHQVk0eFcyVjdscklkM3BwNTwvZ3VpZD4KICAgICAgPGl0dW5lczplcGlzb2RlPjI8L2l0dW5lczplcGlzb2RlPgogICAgICA8ZW5jbG9zdXJlIHVybD0iaHR0cHM6Ly9kcml2ZS51c2VyY29udGVudC5nb29nbGUuY29tL2Rvd25sb2FkP2lkPTFiN0Q4WHFkZU9GR09mblNHQVk0eFcyVjdscklkM3BwNSZhbXA7ZXhwb3J0PWRvd25sb2FkIiBsZW5ndGg9Ijc0OTczODEwIiB0eXBlPSJhdWRpby9tcDQiLz4KICAgIDwvaXRlbT4KICA8L2NoYW5uZWw+CjwvcnNzPgo=
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Marvel Comics History (Timeline Order)</title>
+    <link>https://erpbridge.github.io/podcast-feeds/marvel/</link>
+    <language>en-us</language>
+    <description>Personal audio overviews of Marvel Comics history, in publication timeline order.</description>
+    <itunes:author>Stephen</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>19391001 - Jim Hammond (Earth-616)</title>
+      <description>The Human Torch Joins the NYPD</description>
+      <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">marvel-001-1UiUXU5eXfkyI3k103_uCLNOUzP6fLmEr</guid>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1UiUXU5eXfkyI3k103_uCLNOUzP6fLmEr&amp;export=download" length="64687112" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>19391001 - Halloway origin dive part 1</title>
+      <description>Halloway origin dive part 1</description>
+      <pubDate>Sun, 01 Oct 1939 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">marvel-002-1b7D8XqdeOFGOfnSGAY4xW2V7lrId3pp5</guid>
+      <itunes:episode>2</itunes:episode>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1b7D8XqdeOFGOfnSGAY4xW2V7lrId3pp5&amp;export=download" length="74973810" type="audio/mp4"/>
+    </item>
+  </channel>
+</rss>
