@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>DC Comics History (Timeline Order)</title>
+    <link>https://erpbridge.github.io/podcast-feeds/dc/</link>
+    <atom:link href="https://erpbridge.github.io/podcast-feeds/dc/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <description>Personal audio overviews of DC Comics history, in publication timeline order.</description>
+    <itunes:author>Stephen</itunes:author>
+    <itunes:image href="https://erpbridge.github.io/podcast-feeds/dc/artwork.jpg" />
+    <image>
+      <url>https://erpbridge.github.io/podcast-feeds/dc/artwork.jpg</url>
+      <title>DC Comics History (Timeline Order)</title>
+      <link>https://erpbridge.github.io/podcast-feeds/dc/</link>
+    </image>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <!-- DC episodes publish here with the first DC harvest (tonight's held batch: National Allied, Doctor Occult part 1, Siegel/Shuster). No placeholder items, ever. Item format mirrors the Marvel feed: title <YYYYMMDD> - <pipeline name>, guid dc-<NNN>-<driveFileId>, enclosure drive.usercontent.google.com/download?id=<id>&export=download type audio/mp4, pubDate story-month 1st at 12:00 UTC + within-month pipeline minutes. -->
+  </channel>
+</rss>
