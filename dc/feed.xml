@@ -15,6 +15,15 @@
     </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <!-- DC episodes publish here with the first DC harvest (tonight's held batch: National Allied, Doctor Occult part 1, Siegel/Shuster). No placeholder items, ever. Item format mirrors the Marvel feed: title <YYYYMMDD> - <pipeline name>, guid dc-<NNN>-<driveFileId>, enclosure drive.usercontent.google.com/download?id=<id>&export=download type audio/mp4, pubDate story-month 1st at 12:00 UTC + within-month pipeline minutes. -->
+    <item>
+      <title>19350201 - DC: National Allied Publications publishing-history retrospective</title>
+      <description>The disgraced major behind DC Comics
+P-id: P-3735775</description>
+      <pubDate>Fri, 01 Feb 1935 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dc-001-1bm1r2bhGj1HG_EYs7zBpDGJ_C7Csbe-2</guid>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>42:01</itunes:duration>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1bm1r2bhGj1HG_EYs7zBpDGJ_C7Csbe-2&amp;export=download" length="81156264" type="audio/mp4" />
+    </item>
   </channel>
 </rss>
